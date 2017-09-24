@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\andriodDemo\\BaiduTtsSample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_main.xml",
+        "source": "G:\\andriodDemo\\BaiduTtsSample2\\app\\src\\main\\res\\layout\\login_main.xml"
+    },
+    {
+        "merged": "G:\\andriodDemo\\BaiduTtsSample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\map_main.xml",
+        "source": "G:\\andriodDemo\\BaiduTtsSample2\\app\\src\\main\\res\\layout\\map_main.xml"
+    },
+    {
+        "merged": "G:\\andriodDemo\\BaiduTtsSample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_location.xml",
+        "source": "G:\\andriodDemo\\BaiduTtsSample2\\app\\src\\main\\res\\layout\\choose_location.xml"
+    },
+    {
+        "merged": "G:\\andriodDemo\\BaiduTtsSample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_3d.xml",
+        "source": "G:\\andriodDemo\\BaiduTtsSample2\\app\\src\\main\\res\\layout\\show_3d.xml"
+    },
+    {
+        "merged": "G:\\andriodDemo\\BaiduTtsSample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_main.xml",
+        "source": "G:\\andriodDemo\\BaiduTtsSample2\\app\\src\\main\\res\\layout\\show_main.xml"
+    },
+    {
+        "merged": "G:\\andriodDemo\\BaiduTtsSample2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\andriodDemo\\BaiduTtsSample2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
